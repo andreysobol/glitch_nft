@@ -1,4 +1,4 @@
-## Glitch NFT (Foundry)
+## Glitch NFT
 
 Minimal ERC-721 collection with:
 - Public minting (anyone can mint)
